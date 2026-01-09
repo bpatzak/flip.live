@@ -1,0 +1,3 @@
+[submodule "extern/flip"]
+	path = extern/flip
+	url = https://github.com/bpatzak/flip.git
