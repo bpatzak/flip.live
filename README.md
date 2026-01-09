@@ -6,7 +6,7 @@ A lightweight, transparent, script‑driven environment for structural analysis.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://fliplive.github.io/jupyter-demos/lab/index.html?path=Welcome.ipynb**
+➡️ **https://flip.live.github.io/jupyter-demos/lab/index.html?path=Welcome.ipynb**
 
 Copyright (c) 2026 Bořek Patzák
 
